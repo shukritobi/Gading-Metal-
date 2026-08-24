@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-label="The Journey">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07120f"/><stop offset=".6" stop-color="#14211d"/><stop offset="1" stop-color="#050a08"/></linearGradient><linearGradient id="scrap" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#62645c"/><stop offset="1" stop-color="#242723"/></linearGradient></defs>
+<rect width="720" height="900" fill="url(#bg)"/>
+<g opacity=".42" stroke="#6a746f" stroke-width="8"><path d="M35 0v900M160 0v900M285 0v900M410 0v900M535 0v900M660 0v900"/><path d="M0 120h720M0 360h720M0 600h720"/></g>
+<path d="M0 590c71-30 119-9 187-28 79-22 113 24 189 1 77-23 119-2 168-21 67-26 121-15 176 1v357H0Z" fill="url(#scrap)"/>
+<g fill="#f6f4ee" font-family="Arial,Helvetica,sans-serif"><text x="58" y="120" font-size="62" font-weight="800">The</text><text x="58" y="186" font-size="62" font-weight="800">Journey</text><text x="60" y="235" font-size="20">From collection to manufacturing.</text></g>
+<path d="M15 815C80 650 159 625 257 606c126-24 205 11 298-66 55-45 94-106 150-190" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<g fill="#fff"><circle cx="105" cy="693" r="19"/><circle cx="365" cy="591" r="19"/><circle cx="611" cy="493" r="19"/></g>
+<g fill="#fff" font-family="Arial,Helvetica,sans-serif"><text x="84" y="766" font-size="20">Ready for</text><text x="84" y="792" font-size="20">Manufacturing</text><text x="288" y="522" font-size="20">Sorting &amp;</text><text x="288" y="548" font-size="20">Processing</text><text x="475" y="410" font-size="20">Commercial &amp;</text><text x="475" y="436" font-size="20">Industrial Collection</text></g>
+<g stroke="#fff" fill="none" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M126 715v-55h54v55m-45-55v-22h11v22m17 0v-15h9v15m-43 27h9m10 0h9m10 0h9"/><path d="M323 467l18-30 17 30m-10-3 29 3-14 25m10-7-13 26-26-14m8 8-25-16 16-25"/><path d="M535 343h55l14 30h35v40h-104zm18 70a12 12 0 1 0 0 .1m66-.1a12 12 0 1 0 0 .1"/></g>
+</svg>
