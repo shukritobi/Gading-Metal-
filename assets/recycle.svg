@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-label="What We Recycle">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#075f78"/><stop offset="1" stop-color="#249fc2"/></linearGradient><pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#071713" opacity=".27"/></pattern></defs>
+<rect width="720" height="900" fill="url(#sky)"/>
+<path d="M0 470C88 432 155 449 220 420c82-37 125 10 213-22 91-34 161-30 287 24v129H0Z" fill="#17211d" opacity=".94"/>
+<g fill="#eef2ee" font-family="Arial,Helvetica,sans-serif"><text x="54" y="112" font-size="62" font-weight="800">What We</text><text x="54" y="178" font-size="62" font-weight="800">Recycle</text><text x="56" y="226" font-size="20" opacity=".9">Recovering Resources. Powering Tomorrow.</text></g>
+<path d="M0 454c80 25 124-22 206 0s134-24 205-3 152-14 309 11v48H0Z" fill="#f3f0e8"/>
+<g transform="translate(32 535)" font-family="Arial,Helvetica,sans-serif" fill="#fff"><text x="65" y="0" font-size="18">Waste Paper</text><path d="M50 55c45-28 102-17 126 23 28 46-9 100-63 92-52-8-91-77-63-115Z" fill="#ecebe5"/><path d="M75 80l65 56M62 111l80-23M96 61l7 93" stroke="#a6aaa7" stroke-width="2" fill="none"/></g>
+<g transform="translate(255 535)" font-family="Arial,Helvetica,sans-serif" fill="#fff"><text x="42" y="0" font-size="18">Ferrous Metal</text><g transform="translate(30 45)" fill="#d8dbd7" stroke="#67706c" stroke-width="3"><ellipse cx="45" cy="62" rx="42" ry="30"/><ellipse cx="105" cy="40" rx="40" ry="28"/><ellipse cx="140" cy="95" rx="43" ry="31"/><circle cx="93" cy="103" r="35"/><circle cx="93" cy="103" r="14" fill="#6f7873"/></g></g>
+<g transform="translate(485 535)" font-family="Arial,Helvetica,sans-serif" fill="#fff"><text x="24" y="0" font-size="18">Non-Ferrous Metal</text><path d="M46 70c15 6 23 20 36 24 14 4 27-2 35 9 9 11 3 24 15 31 14 7 29-6 39 4 10 11-3 28-16 35-42 23-91-5-116-35-15-18-23-49 7-68Z" fill="#e2e5e2" stroke="#6c7470" stroke-width="4"/><path d="M62 89c34 20 69 38 102 64M75 71c23 34 45 66 70 96" stroke="#6c7470" stroke-width="3"/></g>
+<g opacity=".38"><rect x="0" y="760" width="720" height="140" fill="url(#dots)"/><path d="M0 837l80-73 70 35 72-68 81 54 82-34 84 73 86-58 95 62 70-27v99H0Z" fill="#1a211d"/></g>
+</svg>
